@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="zoom_in">zoom_in</string>
+    <string name="bounce">bounce</string>
+    <string name="slideup">slideup</string>
+    <string name="rotate">rotate</string>
+    <string name="zoom_out">zoom_out</string>
+    <string name="slidedown">slidedown</string>
+    <string name="blink">blink</string>
+</resources>
